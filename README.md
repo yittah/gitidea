@@ -1,0 +1,2 @@
+# gitidea
+for idea learning
